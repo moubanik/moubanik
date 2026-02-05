@@ -29,6 +29,9 @@ This repository contains my cybersecurity learning notes, lab practices, and han
 - Linux Commands
 - Packet Analysis
 
+📄 Reports & Documentation
+- Password Attack & Defense Mechanisms(PasswordAttacks_Sree.pdf)
+
 📝 Notes
 This repository reflects my ongoing cybersecurity learning journey.
 
